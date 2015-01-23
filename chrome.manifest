@@ -1,0 +1,6 @@
+content scriptoff chrome/content/
+skin scriptoff classic/1.0 chrome/skin/
+overlay chrome://browser/content/browser.xul chrome://scriptoff/content/scriptoff_overlay.xul
+
+#Locale
+locale scriptoff en-US chrome/locale/en-US/
