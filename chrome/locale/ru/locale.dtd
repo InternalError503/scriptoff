@@ -23,3 +23,6 @@
 -->
 <!ENTITY toggleJavascript.label "Включить/выключить JavaScript">
 <!ENTITY toggleJavascript.tooltip "Включить/выключить JavaScript на текущей вкладке">
+
+<!-- Menu Key + J -->
+<!ENTITY scriptoff.accesskey "J">

@@ -36,7 +36,8 @@
 		<menuitem id="tabcontext_scriptoff" 
 						  iconic="true"
 						  class="menuitem-iconic"
-						  label="&toggleJavascript.label;"				
+						  label="&toggleJavascript.label;"
+						  accesskey="&scriptoff.accesskey;"						  
 						  insertafter="context-inspect"
 						  oncommand="scriptoff.scriptoff_ToggleTabJavascript();"/>
 	</menupopup>

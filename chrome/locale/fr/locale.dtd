@@ -23,3 +23,6 @@
 -->
 <!ENTITY toggleJavascript.label "Activer / désactiver JavaScript">
 <!ENTITY toggleJavascript.tooltip "Activer / désactiver pour cet onglet">
+
+<!-- Menu Key + J -->
+<!ENTITY scriptoff.accesskey "J">

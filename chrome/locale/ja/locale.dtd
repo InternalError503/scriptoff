@@ -23,3 +23,6 @@
 -->
 <!ENTITY toggleJavascript.label "JavaScript の有効/無効を切り替え">
 <!ENTITY toggleJavascript.tooltip "このタブで JavaScript の有効/無効を切り替えます">
+
+<!-- Menu Key + J -->
+<!ENTITY scriptoff.accesskey "J">
